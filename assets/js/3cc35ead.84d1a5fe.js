@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_web=self.webpackChunkfirst_web||[]).push([[593],{6447:function(l){l.exports=JSON.parse('{"allTagsPath":"/DizzyDoll/blog/tags","slug":"/DizzyDoll/blog/tags/blythe","name":"Blythe","count":3,"permalink":"/DizzyDoll/blog/tags/blythe"}')}}]);

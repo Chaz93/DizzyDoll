@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_web=self.webpackChunkfirst_web||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"No.1 NoName","permalink":"/DizzyDoll/blog/No1"},{"title":"No.2 Du Du","permalink":"/DizzyDoll/blog/No2"},{"title":"No.3 Lan Lan","permalink":"/DizzyDoll/blog/No3"}]}')}}]);

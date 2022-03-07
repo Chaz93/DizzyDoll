@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_web=self.webpackChunkfirst_web||[]).push([[619],{1861:function(t){t.exports=JSON.parse('{"allTagsPath":"/DizzyDoll/blog/tags","slug":"/DizzyDoll/blog/tags/introduction","name":"Introduction","count":2,"permalink":"/DizzyDoll/blog/tags/introduction"}')}}]);
